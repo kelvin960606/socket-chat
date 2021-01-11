@@ -44,3 +44,8 @@
                 });
 
             ```
+3. Setup Server
+    - upload to Heroku for free
+    - setup own sever
+        - setup nginx and point to repo
+        - install pm2 and start the node & index.js
